@@ -1,0 +1,4 @@
+1,SuperAdmin,Istamov Mirjahon,istamovMM,081204
+2,Admin,Abdullayev Hayot,hayot3003,300304
+3,Admin,Eshonqulov Oybek,oybek0626,060604
+4,Client,Ahmadjonov Alisher,alish0101,zilola
